@@ -1,0 +1,56 @@
+facility_id,name,state,city,lat,lng,type,sub_type,recycling_source,capacity_tons,conversion_rate,opex_energy_M,opex_chemicals_M,opex_labor_M,status,year_established,notes,technology,employees,co2_annual_tons,water_usage_mgal,environmental_rating,federal_permit_status
+F001,Mountain Pass Mine,CA,Mountain Pass,35.478,-115.533,mine,,,18000,0.82,12.4,3.2,8.6,active,1952,Primary US REE mine — largest domestic source,Open-pit mining with flotation,620,8400,42,B,approved
+F002,Nevada Rare Earth Processing,NV,Reno,39.529,-119.814,processing,,,14000,0.78,9.8,6.4,7.2,active,2018,Solvent extraction and ion exchange,SX-EW hydrometallurgy,380,6200,35,B,approved
+F003,Wyoming REE Extraction,WY,Casper,42.866,-106.313,mine,,,11000,0.75,10.2,2.8,6.4,active,2019,High-grade monazite deposit,Underground longwall mining,340,7100,38,C,approved
+F004,Detroit E-Waste Recovery,MI,Detroit,42.331,-83.046,recycling,,e_waste,6500,0.85,4.2,3.8,5.1,active,2020,Hydrometallurgy wet chemical extraction,Acid leaching + solvent extraction,220,2800,12,A,approved
+F005,Lansing Industrial Recycling,MI,Lansing,42.732,-84.556,recycling,,industrial_scrap,4200,0.72,2.8,2.4,3.6,active,2021,Processing NdFeB grinding swarf,Hydrogen decrepitation,160,1800,8,A,approved
+F006,Grand Rapids Magnet Reuse,MI,Grand Rapids,42.963,-85.670,recycling,,magnet_reuse,3100,0.68,1.9,2.1,2.8,active,2022,Direct magnet-to-magnet recycling,HDDR grain boundary diffusion,120,1200,5,A,approved
+F007,Ford EV Factory,MI,Detroit,42.378,-83.098,factory,ev_motor,,0,0,3.2,1.8,12.4,active,2019,Major EV demand center — F-150 Lightning,EV powertrain assembly,2800,12000,18,B,approved
+F008,GM Battery Plant,MI,Lansing,42.798,-84.578,factory,ev_motor,,0,0,2.8,1.6,10.8,active,2020,Ultium platform REE magnets,Battery cell + motor assembly,2200,9800,15,B,approved
+F009,California Processing Hub,CA,Barstow,34.899,-117.017,processing,,,16000,0.80,11.2,7.1,8.4,active,2017,Centralized REE separation facility,Multi-stage SX with saponification,420,7800,40,B,approved
+F010,Texas Recycling Center,TX,Houston,29.760,-95.369,recycling,,e_waste,5800,0.79,3.6,3.2,4.8,active,2021,Gulf Coast e-waste processing hub,Pyrometallurgy + hydromet hybrid,190,3200,14,B,approved
+F011,Montana Mine Alpha,MT,Billings,45.783,-108.502,mine,,,9000,0.71,8.4,2.2,5.2,active,2020,Carbonatite-hosted REE deposit,Open-pit with gravity separation,280,6800,36,C,approved
+F012,Idaho Processing Facility,ID,Boise,43.615,-116.202,processing,,,7500,0.74,6.8,4.8,5.6,active,2022,REE concentrate upgrading,Caustic crack + acid dissolution,210,4800,28,B,approved
+F013,Ohio E-Waste Plant,OH,Columbus,39.961,-82.999,recycling,,e_waste,4800,0.77,2.9,2.6,4.1,active,2021,Midwest e-waste collection hub,Automated disassembly + leaching,170,2200,10,A,approved
+F014,Pennsylvania REE Recovery,PA,Pittsburgh,40.440,-79.996,recycling,,industrial_scrap,3900,0.70,2.4,2.2,3.4,active,2022,Steel mill slag REE recovery,Selective acid leaching,140,1600,7,A,approved
+F015,Arizona Rare Earth Mine,AZ,Kingman,35.189,-114.053,mine,,,8500,0.73,7.6,2.0,4.8,active,2021,Alkaline igneous REE deposit,Open-pit bench mining,260,6400,42,C,approved
+F016,Texas Wind Turbine Plant,TX,Corpus Christi,27.800,-97.396,factory,wind_turbine,,0,0,2.4,1.2,8.6,active,2020,Offshore wind generator manufacturing,Direct-drive PM generator assembly,1800,8200,12,B,approved
+F017,Texas Processing Center,TX,Midland,31.997,-102.077,processing,,,8200,0.76,7.2,5.4,6.1,active,2019,Permian Basin REE from oil byproducts,Ion exchange chromatography,240,5400,30,B,approved
+F018,Colorado REE Mine,CO,Gunnison,38.546,-106.925,mine,,,6800,0.70,6.2,1.8,4.2,active,2022,Thorium-bearing monazite sands,Alluvial placer mining,200,5200,32,C,pending
+F019,Washington Recycling Hub,WA,Tacoma,47.253,-122.444,recycling,,e_waste,5200,0.81,3.4,3.0,4.4,active,2021,Pacific NW e-waste consolidation,Electrochemical extraction,180,2400,11,A,approved
+F020,Utah Rare Earth Mine,UT,Moab,38.573,-109.549,mine,,,7200,0.72,6.8,2.0,4.6,active,2020,Sandstone-hosted ion-adsorption REE,In-situ leaching,240,5600,34,C,approved
+F021,New Mexico Processing,NM,Albuquerque,35.084,-106.651,processing,,,5800,0.75,5.2,3.8,4.2,active,2022,DOE-funded pilot separation plant,Membrane solvent extraction,180,3800,22,B,approved
+F022,Georgia Recycling Center,GA,Savannah,32.081,-81.091,recycling,,magnet_reuse,3600,0.66,2.2,1.8,3.0,active,2022,Port city magnet recovery,Mechanical demagnetization + HDDR,130,1400,6,B,approved
+F023,Florida Phosphate REE,FL,Lakeland,28.039,-81.950,mine,,,5400,0.62,5.8,2.4,3.8,active,2021,REE from phosphogypsum waste stacks,Acid leach of phosphogypsum,200,4200,28,C,pending
+F024,Illinois EV Assembly,IL,Normal,40.510,-88.990,factory,ev_motor,,0,0,2.6,1.4,9.2,active,2021,Rivian EV production requiring REE magnets,EV motor + battery pack assembly,3200,10500,14,B,approved
+F025,North Carolina Processing,NC,Charlotte,35.227,-80.843,processing,,,4600,0.73,4.2,3.2,3.8,active,2023,Southeast REE refining center,Continuous ion exchange,160,3200,18,B,approved
+F026,Minnesota Industrial Recycling,MN,Minneapolis,44.977,-93.265,recycling,,industrial_scrap,3200,0.69,2.0,1.6,2.8,active,2022,Wind turbine scrap magnet recovery,Thermal demagnetization + melt spinning,110,1200,5,A,approved
+F027,Indiana EV Plant,IN,Kokomo,40.486,-86.133,factory,ev_motor,,0,0,2.2,1.2,8.8,active,2022,Stellantis REE motor production,PM synchronous motor assembly,2600,9200,13,B,approved
+F028,New York E-Waste Recovery,NY,Syracuse,43.048,-76.147,recycling,,e_waste,4400,0.74,2.8,2.4,3.6,active,2022,Northeast e-waste consolidation,Bioleaching + solvent extraction,150,1800,8,A,approved
+F029,South Carolina Recycling,SC,Greenville,34.852,-82.394,recycling,,industrial_scrap,2800,0.67,1.8,1.4,2.4,active,2023,Automotive catalyst REE recovery,Selective precipitation,100,1000,4,B,approved
+F030,Virginia Processing,VA,Richmond,37.541,-77.436,processing,,,3800,0.71,3.4,2.8,3.2,active,2023,Defense supply chain REE separation,Centrifugal contactor SX,140,2800,16,B,approved
+F031,Tennessee Recycling,TN,Knoxville,35.960,-83.921,recycling,,e_waste,3400,0.71,2.2,1.8,2.8,active,2023,Oak Ridge Lab spin-off technology,Electroslag remelting + extraction,120,1400,6,A,approved
+F032,Missouri Mine,MO,Rolla,37.951,-91.771,mine,,,4800,0.68,4.8,1.6,3.4,active,2023,Lead belt REE co-production,Underground room-and-pillar,180,4000,24,C,approved
+F033,Michigan Processing Hub,MI,Ann Arbor,42.281,-83.749,processing,,,5600,0.76,4.8,3.6,4.4,active,2023,University-industry REE separation,Ligand-assisted SX,200,3400,18,B,approved
+F034,California Wind Farm Demand,CA,Palm Springs,33.830,-116.545,factory,wind_turbine,,0,0,1.8,0.8,6.2,active,2018,Wind turbine PM generator demand,Direct-drive wind turbine assembly,1200,5400,8,B,approved
+F035,Nevada Recycling Pilot,NV,Las Vegas,36.169,-115.140,recycling,,magnet_reuse,2400,0.64,1.6,1.2,2.0,active,2023,DOE Critical Materials Institute pilot,Electrochemical magnet recycling,90,800,3,A,approved
+F036,Samsung Semiconductor Fab,TX,Austin,30.267,-97.743,factory,semiconductor,,0,0,3.8,1.8,14.2,active,2022,REE polishing compounds for wafer fabrication,EUV lithography + CMP processing,4500,12800,18,B,approved
+F037,Intel Chip Fabrication,AZ,Chandler,33.303,-111.841,factory,semiconductor,,0,0,4.0,2.0,16.4,active,2020,Cerium oxide CMP slurry for chip polishing,Advanced node semiconductor fab,5200,14200,20,B,approved
+F038,TSMC Arizona Fab,AZ,Phoenix,33.448,-112.074,factory,semiconductor,,0,0,3.6,1.6,12.8,active,2023,REE-based photoresist and polishing materials,5nm and 3nm process node fab,3800,11600,16,C,approved
+F039,Raytheon Defense Systems,AZ,Tucson,32.222,-110.975,factory,defense,,0,0,2.8,1.4,10.6,active,2018,Nd and Sm magnets in precision guidance systems,Missile guidance + radar assembly,3200,9400,12,B,approved
+F040,Lockheed Martin Missiles,FL,Orlando,28.538,-81.379,factory,defense,,0,0,3.2,1.6,13.2,active,2016,REE magnets in fire control and targeting systems,Advanced weapons systems assembly,4100,11200,14,B,approved
+F041,GE Wind Turbine Assembly,NY,Schenectady,42.814,-73.940,factory,wind_turbine,,0,0,2.2,1.0,8.4,active,2019,NdFeB permanent magnets for wind generators,Direct-drive PM wind generator line,1600,6800,10,B,approved
+F042,Apple Electronics Assembly,CA,Cupertino,37.323,-122.032,factory,electronics,,0,0,3.4,1.2,18.0,active,2017,REE in speakers and haptic engines,Consumer electronics final assembly,6000,9600,8,B,approved
+F043,Tesla Gigafactory,NV,Sparks,39.538,-119.743,factory,ev_motor,,0,0,3.8,1.8,17.6,active,2016,NdFeB motors and REE battery components,EV motor + battery gigascale production,7500,14800,19,C,approved
+F044,Siemens Medical MRI,PA,Malvern,40.036,-75.514,factory,medical,,0,0,2.0,0.8,8.2,active,2019,Nd and Gd in MRI superconducting magnets,MRI scanner manufacturing + testing,1800,5800,7,B,approved
+F045,Corning Glass Works,NY,Corning,42.143,-77.055,factory,glass_ceramics,,0,0,2.4,1.2,9.0,active,2015,La and Ce oxides in specialty optical glass,Precision glass melting + fiber draw,2200,7200,12,B,approved
+F046,BASF Catalyst Plant,TX,Pasadena,29.691,-95.209,factory,catalyst,,0,0,2.2,1.8,7.4,active,2017,Ce and La in automotive catalytic converters,Washcoat preparation + catalyst coating,1400,6200,9,C,approved
+F047,Northrop Grumman Aerospace,CA,Palmdale,34.579,-118.117,factory,defense,,0,0,3.0,1.4,12.0,active,2015,Sm-Co magnets in satellite and aircraft systems,Aerospace systems integration,3600,10400,14,B,approved
+F048,Vestas Wind Blades,CO,Brighton,39.987,-104.820,factory,wind_turbine,,0,0,1.8,0.6,6.4,active,2020,NdFeB magnets for onshore wind turbines,Wind turbine blade + nacelle assembly,1200,5200,8,B,approved
+F049,Panasonic EV Battery,KS,De Soto,38.940,-94.968,factory,ev_motor,,0,0,3.2,1.4,13.0,active,2023,La-Ni hydrogen storage and REE motor magnets,EV battery cell + module production,4000,11000,15,C,approved
+F050,Micron Semiconductor,ID,Boise,43.618,-116.215,factory,semiconductor,,0,0,3.4,1.6,11.2,active,2019,CeO2 CMP slurry for DRAM fabrication,Memory chip fabrication + packaging,3400,10200,14,B,approved
+F051,BAE Systems Defense,NH,Nashua,42.766,-71.468,factory,defense,,0,0,2.6,1.2,9.8,active,2017,Sm-Co and Nd magnets in electronic warfare,Defense electronics + EW systems,2800,8600,10,B,approved
+F052,LG Energy EV Battery,OH,Holland,41.621,-83.713,factory,ev_motor,,0,0,2.8,1.2,10.4,active,2022,NdFeB in EV traction motor magnets,EV battery cell + motor assembly,3200,9800,13,B,approved
+F053,Qualcomm Chip Design Lab,CA,San Diego,32.716,-117.161,factory,semiconductor,,0,0,2.4,1.0,9.6,active,2018,REE dopants in RF semiconductor devices,RF chip prototyping + small-batch fab,2600,7800,10,B,approved
+F054,GE Healthcare Imaging,WI,Waukesha,43.012,-88.231,factory,medical,,0,0,2.2,1.0,8.6,active,2020,Gd contrast agents and Nd MRI magnets,Medical imaging device assembly,1900,6400,9,B,approved
+F055,Catalent Pharma REE,IN,Bloomington,39.165,-86.526,factory,catalyst,,0,0,1.5,0.5,6.0,active,2021,Ce and Y oxide catalysts for pharma synthesis,Catalyst formulation + pelletizing,800,4000,5,B,approved

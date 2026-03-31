@@ -1,0 +1,13 @@
+country,element,percentage,tons_annual,trend
+China,All REE,60,42000,declining
+Australia,All REE,12,8400,growing
+Myanmar,All REE,10,7000,stable
+USA,All REE,14,9800,growing
+Others,All REE,4,2800,stable
+China,Nd,58,12200,declining
+China,Dy,72,2880,declining
+China,Pr,55,4400,declining
+Australia,Nd,15,3150,growing
+USA,Nd,18,3780,growing
+Myanmar,Nd,6,1260,stable
+Others,Nd,3,630,stable
