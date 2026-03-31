@@ -1,0 +1,29 @@
+facility_id,element_Nd_pct,element_Dy_pct,element_Pr_pct,element_La_pct,element_Ce_pct,element_other_pct,throughput_potential_tons,processed_tonnage,overall_yield_pct,energy_cost_per_ton,chemical_cost_per_ton,labor_cost_per_ton,technology,environmental_rating
+F001,28,8,12,22,24,6,22000,18000,82,689,178,478,Open-pit mining with flotation,B
+F002,32,12,15,18,16,7,18000,14000,78,700,457,514,SX-EW hydrometallurgy,B
+F003,26,9,11,24,22,8,14000,11000,75,927,255,582,Underground longwall mining,C
+F004,42,18,15,12,8,5,8500,6500,85,645,584,785,Acid leaching + solvent extraction,A
+F005,35,22,18,14,7,4,5500,4200,72,667,571,857,Hydrogen decrepitation,A
+F006,48,15,12,10,10,5,4200,3100,68,613,677,903,HDDR grain boundary diffusion,A
+F009,30,10,14,20,18,8,20000,16000,80,700,444,525,Multi-stage SX with saponification,B
+F010,38,20,16,13,9,4,7200,5800,79,621,552,828,Pyrometallurgy + hydromet hybrid,B
+F011,24,7,10,26,26,7,12000,9000,71,933,244,578,Open-pit with gravity separation,C
+F012,31,11,14,19,17,8,10000,7500,74,907,640,747,Caustic crack + acid dissolution,B
+F013,40,19,15,12,9,5,5800,4800,77,604,542,854,Automated disassembly + leaching,A
+F014,36,21,17,13,8,5,4800,3900,70,615,564,872,Selective acid leaching,A
+F015,25,8,11,24,24,8,11000,8500,73,894,235,565,Open-pit bench mining,C
+F017,29,10,13,21,19,8,10500,8200,76,878,659,744,Ion exchange chromatography,B
+F019,39,18,15,13,10,5,6500,5200,81,654,577,846,Electrochemical extraction,A
+F020,27,9,12,22,22,8,9500,7200,72,944,278,639,In-situ leaching,C
+F021,33,13,16,17,14,7,7500,5800,75,897,655,724,Membrane solvent extraction,B
+F022,46,16,13,11,9,5,4800,3600,66,611,500,833,Mechanical demagnetization + HDDR,B
+F023,22,6,9,28,28,7,7200,5400,62,1074,444,704,Acid leach of phosphogypsum,C
+F025,31,12,14,18,17,8,6000,4600,73,913,696,826,Continuous ion exchange,B
+F026,37,20,16,13,8,6,4200,3200,69,625,500,875,Thermal demagnetization + melt spinning,A
+F028,41,17,14,12,10,6,5600,4400,74,636,545,818,Bioleaching + solvent extraction,A
+F029,34,19,17,14,9,7,3600,2800,67,643,500,857,Selective precipitation,B
+F030,32,14,15,17,15,7,5000,3800,71,895,737,842,Centrifugal contactor SX,B
+F031,40,18,14,12,10,6,4400,3400,71,647,529,824,Electroslag remelting + extraction,A
+F032,23,7,10,25,27,8,6500,4800,68,1000,333,708,Underground room-and-pillar,C
+F033,34,14,16,16,13,7,7200,5600,76,857,643,786,Ligand-assisted SX,B
+F035,45,16,13,11,10,5,3200,2400,64,667,500,833,Electrochemical magnet recycling,A
